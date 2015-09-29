@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方廣入如來智德不思議經
+#+DATE: 2015-09-28 22:56:57.212709
+#+PROPERTY: JUAN 0
