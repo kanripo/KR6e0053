@@ -1,21 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:57.025958
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:46
 #+TITLE: 大方廣入如來智德不思議經
 #+PROPERTY: CBETA_ID T10n0304
 #+PROPERTY: ID KR6e0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 304
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0053_T_000-0924b>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0053_T_001-0924b> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.304[Nos.302,303]¶
-
- 《大方廣入如來智德不思議經》一¶
-卷¶
+No. 304 [Nos. 302, 303]¶
+《大方廣入如來智德不思議經》一卷¶
 ¶
 大唐于闐三藏實叉難陀譯¶
 
